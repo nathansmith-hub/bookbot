@@ -2,4 +2,4 @@
 
 BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
-A python program which prints a report of the word and character use of novels.
+A command-line application in Python which prints a report of the word and character use of novels.
