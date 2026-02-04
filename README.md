@@ -1,5 +1,5 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+This is my first Boot.dev project, a command-line text analysis tool built with Python.
 
-A command-line application in Python which prints a report of the word and character use of novels.
+It's a basic implementation that demonstrates fundamental Python concepts like file reading, string manipulation, and data processing.
