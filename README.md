@@ -1,4 +1,4 @@
-# bookbot
+# Bookbot
 
 This is my first Boot.dev project, a command-line text analysis tool built with Python.
 
